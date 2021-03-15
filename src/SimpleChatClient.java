@@ -48,7 +48,9 @@ public class SimpleChatClient {
         Thread readerThread = new Thread(new IncomingReader());
         readerThread.start();
         
+        
         frame.getContentPane().add(BorderLayout.CENTER, mainPanel);
+        frame.getRootPane().setDefaultButton(sendButton);
         frame.setSize(800, 500);
         frame.setVisible(true);
     }
