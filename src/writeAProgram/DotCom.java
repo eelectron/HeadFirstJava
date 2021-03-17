@@ -9,6 +9,7 @@ public class DotCom {
         if(locationCells.isEmpty()) {
             return "kill";
         }
+        
         String result = "miss";
         int index = locationCells.indexOf(strGuess);
         if(index >= 0) {
