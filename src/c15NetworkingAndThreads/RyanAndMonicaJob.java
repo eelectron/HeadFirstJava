@@ -1,4 +1,4 @@
-package networkingAndThreads;
+package c15NetworkingAndThreads;
 
 public class RyanAndMonicaJob implements Runnable{
     private BankAccount account = new BankAccount();

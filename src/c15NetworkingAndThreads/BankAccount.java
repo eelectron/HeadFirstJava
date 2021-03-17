@@ -1,4 +1,4 @@
-package networkingAndThreads;
+package c15NetworkingAndThreads;
 
 public class BankAccount {
     private int balance = 100;

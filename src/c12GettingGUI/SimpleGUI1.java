@@ -1,4 +1,4 @@
-package gettingGUI;
+package c12GettingGUI;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;

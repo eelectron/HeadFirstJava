@@ -1,4 +1,4 @@
-package gettingGUI;
+package c12GettingGUI;
 
 import java.awt.Color;
 import java.awt.GradientPaint;

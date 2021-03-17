@@ -1,4 +1,4 @@
-package networkingAndThreads;
+package c15NetworkingAndThreads;
 
 public class RunThreads implements Runnable{
     public void run() {

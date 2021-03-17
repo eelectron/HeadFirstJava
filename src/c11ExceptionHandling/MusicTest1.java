@@ -1,4 +1,4 @@
-package exceptionHandling;
+package c11ExceptionHandling;
 
 import javax.sound.midi.MidiSystem;
 import javax.sound.midi.MidiUnavailableException;

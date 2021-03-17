@@ -1,4 +1,4 @@
-package writeAProgram;
+package c5WriteAProgram;
 
 public class SimpleDotCom {
     int[] locationCells;

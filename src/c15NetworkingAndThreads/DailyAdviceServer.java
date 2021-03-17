@@ -1,4 +1,4 @@
-package networkingAndThreads;
+package c15NetworkingAndThreads;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.ServerSocket;

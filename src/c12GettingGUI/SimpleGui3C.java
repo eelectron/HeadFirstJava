@@ -1,4 +1,4 @@
-package gettingGUI;
+package c12GettingGUI;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

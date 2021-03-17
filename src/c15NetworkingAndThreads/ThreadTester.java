@@ -1,4 +1,4 @@
-package networkingAndThreads;
+package c15NetworkingAndThreads;
 
 public class ThreadTester {
     public static void main(String[] args) {

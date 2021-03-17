@@ -1,4 +1,4 @@
-package writeAProgram;
+package c5WriteAProgram;
 
 import java.util.Scanner;
 

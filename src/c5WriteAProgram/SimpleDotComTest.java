@@ -1,4 +1,4 @@
-package writeAProgram;
+package c5WriteAProgram;
 
 import static org.junit.jupiter.api.Assertions.*;
 
